@@ -24,3 +24,4 @@ React        Node.js      Bun   AWS      Hasura
 
 - [GitHub](https://github.com/deathemperor)
 - [deathemperor.github.io](https://deathemperor.github.io)
+
