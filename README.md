@@ -16,9 +16,7 @@ React        Node.js      Bun   AWS      Hasura
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deathemperor&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathemperor&layout=compact&theme=transparent&hide_border=true&hide_title=true)
+![GitHub streak](https://streak-stats.demolab.com?user=deathemperor&theme=transparent&hide_border=true)
 
 ## Find me
 
