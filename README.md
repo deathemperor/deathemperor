@@ -38,6 +38,7 @@ I work across the full stack — from mobile SDKs and micro frontends to AI agen
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
 ![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white)
+![WunderGraph Cosmo](https://img.shields.io/badge/-WunderGraph%20Cosmo-FF6B00?style=flat-square&logo=wundergraph&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -63,6 +64,7 @@ I work across the full stack — from mobile SDKs and micro frontends to AI agen
 
 **Observability & Quality**
 
+![PostHog](https://img.shields.io/badge/-PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -93,12 +95,6 @@ Active contributor to projects across the React, React Native, and GraphQL ecosy
 - **[react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)** — openCamera fix
 - **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — docs fix for inherited roles
 - **[uizaio](https://github.com/uizaio)** — Go SDK multi-region, Android SDK, API docs
-
-## Featured Projects
-
-- **[puppeteer-lambda-starter-kit](https://github.com/nicholasgasior/puppeteer-lambda-starter-kit)** — headless Chrome on AWS Lambda (17 stars)
-- **[nh3-calculator](https://github.com/deathemperor/nh3-calculator)** — aquaculture ammonia safety calculator (Vue.js)
-- **[apollo-server-tool](https://github.com/deathemperor/apollo-server-tool)** — Apollo Server on Lambda with Sentry + JWT auth
 
 ## Stats
 
