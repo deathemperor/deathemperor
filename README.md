@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=deathemperor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Agent%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=deathemperor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CTO%20%2F%20COO%20%7C%20Software%20Engineer%20%7C%20AI%20Agent%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18&descColor=8b949e" width="100%" />
 
 <p align="center">
   <a href="https://github.com/deathemperor"><img src="https://komarev.com/ghpvc/?username=deathemperor&style=flat-square&color=58a6ff&label=Profile+Views" /></a>
@@ -18,7 +18,7 @@
 ```yaml
 name: deathemperor
 location: Saigon, Vietnam
-role: Full-Stack Software Engineer
+role: CTO / COO & Full-Stack Software Engineer
 current: Building hyperscale insurance infrastructure at Papaya
 scope: Every country. Every product. Every line of business.
 focus:
