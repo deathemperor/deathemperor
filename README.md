@@ -1,118 +1,265 @@
-# Hi, I'm deathemperor
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=deathemperor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Agent%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18&descColor=8b949e" width="100%" />
 
-Software engineer based in Saigon, Vietnam. I build insurance infrastructure, AI agents, and developer tools at scale.
+<p align="center">
+  <a href="https://github.com/deathemperor"><img src="https://komarev.com/ghpvc/?username=deathemperor&style=flat-square&color=58a6ff&label=Profile+Views" /></a>
+  <a href="https://github.com/deathemperor?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-43-58a6ff?style=flat-square" /></a>
+  <a href="https://github.com/deathemperor?tab=followers"><img src="https://img.shields.io/github/followers/deathemperor?style=flat-square&color=58a6ff&label=Followers" /></a>
+  <img src="https://img.shields.io/badge/Since-2013-58a6ff?style=flat-square" />
+</p>
 
-I work across the full stack — from mobile SDKs and micro frontends to AI agent pipelines, GraphQL APIs, and cloud infrastructure. Currently focused on building a hyperscale insurance platform that serves every country and every line of business.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+insurance+infrastructure+at+hyperscale;Shipping+37%2B+AI+agents+to+production;Full+stack+%E2%80%94+mobile+SDKs+to+cloud+infra" />
+</p>
 
-## Tech Stack
+---
+
+### `> whoami`
+
+```yaml
+name: deathemperor
+location: Saigon, Vietnam
+role: Full-Stack Software Engineer
+current: Building hyperscale insurance infrastructure at Papaya
+scope: Every country. Every product. Every line of business.
+focus:
+  - AI agent pipelines (claims, fraud detection, document extraction)
+  - Micro frontend architecture (React + Vite + Module Federation)
+  - GraphQL federation APIs (WunderGraph Cosmo + Hasura DDN)
+  - Multi-platform SDKs (Node, React, React Native, iOS, Android)
+  - Cloud infrastructure at scale (AWS, GCP, Pulumi)
+  - Observability (OpenTelemetry, Grafana, PostHog, Sentry)
+```
+
+---
+
+### `> tech --stack`
+
+<table>
+<tr><td valign="top" width="33%">
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,swift,kotlin,php,bash&perline=4" />
+</p>
+
+</td><td valign="top" width="33%">
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Module Federation](https://img.shields.io/badge/-Module%20Federation-3B82F6?style=flat-square&logo=webpack&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,webpack,redux,expo,figma&perline=4" />
+</p>
+
+</td><td valign="top" width="33%">
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white)
-![WunderGraph Cosmo](https://img.shields.io/badge/-WunderGraph%20Cosmo-FF6B00?style=flat-square&logo=wundergraph&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,graphql,postgres,redis,mongodb,express,kafka&perline=4" />
+</p>
+
+</td></tr>
+<tr><td valign="top" width="33%">
 
 **AI & Agents**
 
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/-Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
-**Infrastructure & DevOps**
+</td><td valign="top" width="33%">
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+**Infrastructure**
 
-**Observability & Quality**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,gitlab,linux,nginx,cloudflare&perline=4" />
+</p>
 
-![PostHog](https://img.shields.io/badge/-PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+</td><td valign="top" width="33%">
 
-## Current Work
+**Observability & IaC**
 
-- **[Papaya](https://github.com/papaya-insurtech)** — hyperscale insurance infrastructure platform
-  - Micro frontend architecture (React + Vite + Module Federation)
-  - 37+ AI agent pipelines — claims processing, fraud detection, document extraction, medical analysis
-  - GraphQL federation API layer (WunderGraph Cosmo + Hasura DDN)
-  - Partner SDKs — Node, React, React Native, iOS (Swift), Android (Kotlin)
-  - Multi-country support with i18n and per-tenant configuration
-  - Cloud infrastructure on AWS (ECS, Lambda, RDS, CloudFront, S3) with Pulumi IaC
-  - Observability with OpenTelemetry, Grafana Faro, and Sentry
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
 
-## Open Source Contributions
+</td></tr>
+<tr><td valign="top" width="33%">
+
+**GraphQL Ecosystem**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-WunderGraph-FF6B00?style=for-the-badge&logo=wundergraph&logoColor=white" />
+</p>
+
+</td><td valign="top" width="33%">
+
+**Testing**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/-Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white" />
+</p>
+
+</td><td valign="top" width="33%">
+
+**Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,neovim&perline=4" />
+</p>
+
+</td></tr>
+</table>
+
+---
+
+### `> cat current_work.md`
+
+<table>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🏗️-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**[Papaya](https://github.com/papaya-insurtech)** — hyperscale insurance infrastructure platform
+
+</td>
+</tr>
+</table>
+
+| Domain | What |
+|--------|------|
+| **Frontend** | Micro frontend architecture — React + Vite + Module Federation, multi-tenant, i18n (4 locales) |
+| **AI Agents** | 37+ pipelines — claims processing, fraud/waste/abuse detection, document extraction, medical analysis |
+| **API** | GraphQL federation — WunderGraph Cosmo gateway + Hasura DDN subgraphs |
+| **SDKs** | 5 platforms — Node, React, React Native, iOS (Swift), Android (Kotlin) |
+| **Infrastructure** | AWS (ECS, Lambda, RDS, CloudFront, S3, SES, SQS) + GCP (Vertex AI) — Pulumi IaC |
+| **Observability** | OpenTelemetry + Grafana Faro + PostHog + Sentry |
+| **Auth** | Passwordless — WebAuthn/passkeys + enterprise SSO (WorkOS) |
+
+---
+
+### `> git log --oneline --open-source`
 
 Active contributor to projects across the React, React Native, and GraphQL ecosystems:
 
-- **[ant-design](https://github.com/ant-design/ant-design)** — FloatButton bug fixes, docs corrections
-- **[gql.tada](https://github.com/0no-co/gql.tada)** — increased recursive conditional type depth
-- **[graphql-eslint](https://github.com/B2o5T/graphql-eslint)** — sort option for OperationDefinition
-- **[serverless-esbuild](https://github.com/floydspace/serverless-esbuild)** — exclude third-level dependencies
-- **[react-native-maps](https://github.com/react-native-maps/react-native-maps)** — guard against nil subview on iOS
-- **[react-component/util](https://github.com/react-component/util)** — React 19 compatibility
-- **[sentry-react-native](https://github.com/getsentry/sentry-react-native)** — compilation fix for RN 0.47
-- **[react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)** — openCamera fix
-- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — docs fix for inherited roles
-- **[uizaio](https://github.com/uizaio)** — Go SDK multi-region, Android SDK, API docs
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="36" /><br/>
+<sub><b>ant-design</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="36" /><br/>
+<sub><b>gql.tada</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="36" /><br/>
+<sub><b>graphql-eslint</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="36" /><br/>
+<sub><b>serverless-esbuild</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="36" /><br/>
+<sub><b>react-native-maps</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center"><sub>FloatButton fixes</sub></td>
+<td align="center"><sub>Type depth increase</sub></td>
+<td align="center"><sub>Sort option</sub></td>
+<td align="center"><sub>Dep exclusion</sub></td>
+<td align="center"><sub>iOS nil guard</sub></td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="36" /><br/>
+<sub><b>react-component</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sentry" width="36" /><br/>
+<sub><b>sentry-react-native</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="36" /><br/>
+<sub><b>image-crop-picker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="36" /><br/>
+<sub><b>hasura</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="36" /><br/>
+<sub><b>uizaio</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center"><sub>React 19 compat</sub></td>
+<td align="center"><sub>RN compile fix</sub></td>
+<td align="center"><sub>Camera fix</sub></td>
+<td align="center"><sub>Inherited roles</sub></td>
+<td align="center"><sub>Multi-region SDK</sub></td>
+</tr>
+</table>
 
-## Stats
+---
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deathemperor&theme=transparent" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deathemperor&theme=transparent" height="170" />
+### `> htop`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deathemperor&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deathemperor&theme=github_dark" height="170" />
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deathemperor&theme=transparent&utcOffset=7" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deathemperor&theme=transparent" height="170" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deathemperor&theme=github_dark&utcOffset=7" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deathemperor&theme=github_dark" height="170" />
 </p>
 
-![GitHub streak](https://streak-stats.demolab.com?user=deathemperor&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deathemperor&theme=github-dark-blue&hide_border=true" />
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deathemperor&theme=transparent)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deathemperor&theme=github_dark" />
+</p>
 
-## Connect
+<!-- Snake animation — generated by GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deathemperor/deathemperor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deathemperor/deathemperor/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/deathemperor/deathemperor/output/github-snake-dark.svg" />
+</picture>
 
-[![GitHub](https://img.shields.io/badge/-deathemperor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deathemperor)
-[![Website](https://img.shields.io/badge/-deathemperor.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://deathemperor.github.io)
+---
+
+### `> echo $QUOTE`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/deathemperor"><img src="https://img.shields.io/badge/-deathemperor-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://deathemperor.github.io"><img src="https://img.shields.io/badge/-deathemperor.github.io-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
