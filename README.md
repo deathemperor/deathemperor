@@ -99,15 +99,18 @@ Active contributor to projects across the React, React Native, and GraphQL ecosy
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=deathemperor&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathemperor&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deathemperor&theme=transparent" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deathemperor&theme=transparent" height="170" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deathemperor&theme=transparent&utcOffset=7" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deathemperor&theme=transparent" height="170" />
 </p>
 
 ![GitHub streak](https://streak-stats.demolab.com?user=deathemperor&theme=transparent&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=deathemperor&theme=flat&no-bg=true&no-frame=true&column=8)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deathemperor&theme=github-compact&hide_border=true&area=true)](https://github.com/deathemperor)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deathemperor&theme=transparent)
 
 ## Connect
 
