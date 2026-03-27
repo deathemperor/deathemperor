@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+insurance+infrastructure+at+hyperscale;Shipping+37%2B+AI+agents+to+production;Full+stack+%E2%80%94+mobile+SDKs+to+cloud+infra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+insurance+infrastructure+at+hyperscale;Shipping+37%2B+AI+agents+to+production;Full+stack+%E2%80%94+mobile+SDKs+to+cloud+infra" />
 </p>
 
 ---
