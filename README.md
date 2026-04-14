@@ -139,6 +139,46 @@ focus:
 
 </td>
 </tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🧠-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — AI education
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-☁️-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — Cloud management
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-⚡-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — AI powered datacenter
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🏠-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — AI powered service apartment
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🌾-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — Food production
+
+</td>
+</tr>
 </table>
 
 | Domain | What |
@@ -259,7 +299,8 @@ Active contributor to projects across the React, React Native, and GraphQL ecosy
 
 <p align="center">
   <a href="https://github.com/deathemperor"><img src="https://img.shields.io/badge/-deathemperor-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://deathemperor.github.io"><img src="https://img.shields.io/badge/-deathemperor.github.io-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+  <a href="https://huuloc.com"><img src="https://img.shields.io/badge/-huuloc.com-58a6ff?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://github.com/deathemperor/pensieve"><img src="https://img.shields.io/badge/-pensieve-8A3391?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
