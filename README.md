@@ -143,7 +143,7 @@ focus:
 <td width="80"><img src="https://img.shields.io/badge/-🧠-000?style=for-the-badge&labelColor=000" /></td>
 <td>
 
-**Stealth** — AI education
+**Stealth** — AI powered education
 
 </td>
 </tr>
@@ -151,7 +151,7 @@ focus:
 <td width="80"><img src="https://img.shields.io/badge/-☁️-000?style=for-the-badge&labelColor=000" /></td>
 <td>
 
-**Stealth** — Cloud management
+**Stealth** — AI powered cloud management
 
 </td>
 </tr>
@@ -175,7 +175,23 @@ focus:
 <td width="80"><img src="https://img.shields.io/badge/-🌾-000?style=for-the-badge&labelColor=000" /></td>
 <td>
 
-**Stealth** — Food production
+**Stealth** — AI powered food production
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🎓-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — AI powered university for AI
+
+</td>
+</tr>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-🤖-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**Stealth** — AI powered studio to build AI agents
 
 </td>
 </tr>
