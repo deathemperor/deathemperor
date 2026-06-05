@@ -139,62 +139,6 @@ focus:
 
 </td>
 </tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-🧠-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered education
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-☁️-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered cloud management
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-⚡-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered datacenter
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-🏠-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered service apartment
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-🌾-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered food production
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-🎓-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered university for AI
-
-</td>
-</tr>
-<tr>
-<td width="80"><img src="https://img.shields.io/badge/-🤖-000?style=for-the-badge&labelColor=000" /></td>
-<td>
-
-**Stealth** — AI powered studio to build AI agents
-
-</td>
-</tr>
 </table>
 
 | Domain | What |
