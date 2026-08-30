@@ -153,6 +153,27 @@ focus:
 
 ---
 
+### `> open Infinitus.app`
+
+<table>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/-∞-000?style=for-the-badge&labelColor=000" /></td>
+<td>
+
+**[Infinitus](https://github.com/deathemperor/infinitus)** — every Claude account in one menu bar, swap before you stall
+
+</td>
+</tr>
+</table>
+
+Native macOS menu bar app (Swift/SwiftUI) over the [claude-swap](https://github.com/deathemperor/claude-swap) engine: live 5-hour / weekly / per-model gauges for a whole fleet of Claude accounts, auto-switch awareness, one-click rotate, glass chrome — wrapped in themes from RPG to Wild West. `brew install --cask deathemperor/tap/infinitus`
+
+<p align="center">
+  <a href="https://github.com/deathemperor/infinitus"><img src="https://raw.githubusercontent.com/deathemperor/infinitus/main/docs/demo.gif" width="720" alt="Infinitus demo" /></a>
+</p>
+
+---
+
 ### `> git log --oneline --open-source`
 
 Active contributor to projects across the React, React Native, and GraphQL ecosystems:
